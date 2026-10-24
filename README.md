@@ -1,6 +1,6 @@
 # Assignment #5: JavaScript Basics (DOM Manipulation & Events)
 
-**Student Name:** Madina  
+**Student Name:** Madina Kairbayeva
 **Group:** IT-2504 
 
 ---
